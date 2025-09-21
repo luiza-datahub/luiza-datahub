@@ -2,6 +2,7 @@
 Aspiring Data Analyst | MySQL | Power BI  
 
 ## Projetos em destaque
+- [financial_sample](https://github.com/luiza-datahub/financial_sample)
 - [Dashboard-Assinaturas-Xbox](https://github.com/luiza-datahub/dashboard-assinaturas-xbox)
 - [Modelagem-bd-Oficina](https://github.com/luiza-datahub/Modelagem-bd-oficina)
 - [E-commerce SQL Project](https://github.com/luiza-datahub/e-commerce-sql-project)
