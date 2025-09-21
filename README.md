@@ -12,4 +12,4 @@ Aspiring Data Analyst | MySQL | Power BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 ## Contato
-[LinkedIn](https://www.linkedin.com/in/luiza-abreu-ti/) | [Email](mailto:luizaabreudossantos97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-abreu-ti/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizaabreudossantos97@gmail.com)
